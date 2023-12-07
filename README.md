@@ -18,11 +18,11 @@
 
 SOLID is an acronym for five design principles
 
-S - Single Responsibility Principle (known as SRP)
-O - Open/Closed Principle
-L - Liskov’s Substitution Principle
-I - Interface Segregation Principle
-D - Dependency Inversion Principle
+1. S - Single Responsibility Principle (SRP)
+2. O - Open/Closed Principle (OCP)
+3. L - Liskov’s Substitution Principle
+4. I - Interface Segregation Principle
+5. D - Dependency Inversion Principle
 
 These principles guide developers to create maintainable, flexible, and robust software systems. In this article, we will explore each of these principles in-depth, accompanied by practical code examples in C#.
 
